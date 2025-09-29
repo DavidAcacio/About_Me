@@ -1,15 +1,24 @@
-#Bem vindo ao meu primeiro projeto de portifólio.
+# Portfólio - David Acacio
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+<img src="Minha Foto.jpeg" alt="Minha Foto" width="200" style="border-radius: 50%">
 
-## Ferramentas Usadas:
+## Sobre mim
+Olá! Sou **David Acacio**, desenvolvedor Front-end com conhecimentos em **HTML, CSS, JavaScript, Python, PHP, C e MySQL**.  
+Atualmente curso o **3º período de Análise e Desenvolvimento de Sistemas** e estou em busca de oportunidades para aplicar meus conhecimentos na prática, aprender novas tecnologias e evoluir profissionalmente na área de TI.  
 
-*HTML
+## Tecnologias
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- PHP  
+- C  
+- MySQL  
 
-*CSS
+## Acesse minhas redes
+- [LinkedIn](https://www.linkedin.com/in/david-acacio-420177266/)  
+- [GitHub](https://github.com/DavidAcacio)  
 
-*Flex-box
+---
 
-## Projeto feito por:
-
-### David Acacio
+⭐ Projeto desenvolvido como parte do meu portfólio pessoal.
