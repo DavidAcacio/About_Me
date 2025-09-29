@@ -1,6 +1,6 @@
 # Portfólio - David Acacio
 
-<img src="Minha Foto.jpeg" alt="Minha Foto" width="200" style="border-radius: 50%">
+<img src="site.png" alt="Foto do site" width="200" style="border-radius: 50%">
 
 ## Sobre mim
 Olá! Sou **David Acacio**, desenvolvedor Front-end com conhecimentos em **HTML, CSS, JavaScript, Python, PHP, C e MySQL**.  
